@@ -20,4 +20,8 @@ a2z sheet striver
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/kushwahapratik3/dailyDsa/tree/master/0162-find-peak-element) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
