@@ -29,4 +29,8 @@ a2z sheet striver
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0876-middle-of-the-linked-list) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/kushwahapratik3/dailyDsa/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
