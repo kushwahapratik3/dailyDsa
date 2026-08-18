@@ -23,6 +23,7 @@ a2z sheet striver
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -33,4 +34,8 @@ a2z sheet striver
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kushwahapratik3/dailyDsa/tree/master/0007-reverse-integer) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
