@@ -10,7 +10,7 @@ class Solution {
 public:
     bool hasCycle(ListNode *head) {
         unordered_set<ListNode*>address;
-        while(address.empty()==true||address.find(head)==address.end()){
+        while(address.find(head)==address.end()){
             if(head==NULL) return false;
             address.insert(head);
             head=head->next;
