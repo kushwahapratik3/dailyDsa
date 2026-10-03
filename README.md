@@ -12,6 +12,7 @@ a2z sheet striver
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwahapratik3/dailyDsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/kushwahapratik3/dailyDsa/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/kushwahapratik3/dailyDsa/tree/master/0204-count-primes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@ a2z sheet striver
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kushwahapratik3/dailyDsa/tree/master/0007-reverse-integer) |
+| [0204-count-primes](https://github.com/kushwahapratik3/dailyDsa/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -52,4 +54,24 @@ a2z sheet striver
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kushwahapratik3/dailyDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0142-linked-list-cycle-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kushwahapratik3/dailyDsa/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kushwahapratik3/dailyDsa/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kushwahapratik3/dailyDsa/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kushwahapratik3/dailyDsa/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kushwahapratik3/dailyDsa/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
