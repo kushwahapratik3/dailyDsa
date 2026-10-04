@@ -13,6 +13,7 @@ a2z sheet striver
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwahapratik3/dailyDsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/kushwahapratik3/dailyDsa/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/kushwahapratik3/dailyDsa/tree/master/0204-count-primes) |
+| [0658-find-k-closest-elements](https://github.com/kushwahapratik3/dailyDsa/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,6 +22,7 @@ a2z sheet striver
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/kushwahapratik3/dailyDsa/tree/master/0162-find-peak-element) |
+| [0658-find-k-closest-elements](https://github.com/kushwahapratik3/dailyDsa/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -34,6 +36,7 @@ a2z sheet striver
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kushwahapratik3/dailyDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0142-linked-list-cycle-ii) |
+| [0658-find-k-closest-elements](https://github.com/kushwahapratik3/dailyDsa/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -74,4 +77,16 @@ a2z sheet striver
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kushwahapratik3/dailyDsa/tree/master/0204-count-primes) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/kushwahapratik3/dailyDsa/tree/master/0658-find-k-closest-elements) |
+## Sorting
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/kushwahapratik3/dailyDsa/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/kushwahapratik3/dailyDsa/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
