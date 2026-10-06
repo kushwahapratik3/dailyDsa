@@ -6,14 +6,12 @@ public:
         int fixed;
         int i;
         for(i=0;i<nums.size()-2;i++){
-            if (i==0)fixed=nums[i];
-            else{
+            if(i>0){
                 while(i<nums.size()-2&&nums[i]==nums[i-1]){
                     i++;
                 }
-                fixed=nums[i];
-
             }
+            fixed=nums[i];
             int low=i+1;
             int high=nums.size()-1;
             while(low<high){
