@@ -15,6 +15,7 @@ a2z sheet striver
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwahapratik3/dailyDsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/kushwahapratik3/dailyDsa/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/kushwahapratik3/dailyDsa/tree/master/0204-count-primes) |
+| [0493-reverse-pairs](https://github.com/kushwahapratik3/dailyDsa/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/kushwahapratik3/dailyDsa/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/kushwahapratik3/dailyDsa/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
@@ -25,6 +26,7 @@ a2z sheet striver
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/kushwahapratik3/dailyDsa/tree/master/0162-find-peak-element) |
+| [0493-reverse-pairs](https://github.com/kushwahapratik3/dailyDsa/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/kushwahapratik3/dailyDsa/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/kushwahapratik3/dailyDsa/tree/master/0875-koko-eating-bananas) |
 ## Linked List
@@ -96,4 +98,28 @@ a2z sheet striver
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/kushwahapratik3/dailyDsa/tree/master/0658-find-k-closest-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kushwahapratik3/dailyDsa/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kushwahapratik3/dailyDsa/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kushwahapratik3/dailyDsa/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kushwahapratik3/dailyDsa/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kushwahapratik3/dailyDsa/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kushwahapratik3/dailyDsa/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
