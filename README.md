@@ -13,6 +13,7 @@ a2z sheet striver
 | [0015-3sum](https://github.com/kushwahapratik3/dailyDsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushwahapratik3/dailyDsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwahapratik3/dailyDsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/kushwahapratik3/dailyDsa/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/kushwahapratik3/dailyDsa/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/kushwahapratik3/dailyDsa/tree/master/0204-count-primes) |
 | [0493-reverse-pairs](https://github.com/kushwahapratik3/dailyDsa/tree/master/0493-reverse-pairs) |
@@ -23,6 +24,7 @@ a2z sheet striver
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwahapratik3/dailyDsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/kushwahapratik3/dailyDsa/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
 | ------- |
