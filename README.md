@@ -13,6 +13,7 @@ a2z sheet striver
 | [0015-3sum](https://github.com/kushwahapratik3/dailyDsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushwahapratik3/dailyDsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwahapratik3/dailyDsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/kushwahapratik3/dailyDsa/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/kushwahapratik3/dailyDsa/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/kushwahapratik3/dailyDsa/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/kushwahapratik3/dailyDsa/tree/master/0204-count-primes) |
@@ -63,6 +64,7 @@ a2z sheet striver
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kushwahapratik3/dailyDsa/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/kushwahapratik3/dailyDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
@@ -127,4 +129,8 @@ a2z sheet striver
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kushwahapratik3/dailyDsa/tree/master/0493-reverse-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kushwahapratik3/dailyDsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
