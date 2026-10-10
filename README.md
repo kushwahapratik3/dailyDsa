@@ -55,6 +55,7 @@ a2z sheet striver
 | ------- |
 | [0007-reverse-integer](https://github.com/kushwahapratik3/dailyDsa/tree/master/0007-reverse-integer) |
 | [0204-count-primes](https://github.com/kushwahapratik3/dailyDsa/tree/master/0204-count-primes) |
+| [0507-perfect-number](https://github.com/kushwahapratik3/dailyDsa/tree/master/0507-perfect-number) |
 ## Recursion
 |  |
 | ------- |
