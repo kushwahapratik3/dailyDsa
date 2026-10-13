@@ -17,6 +17,7 @@ a2z sheet striver
 | [0152-maximum-product-subarray](https://github.com/kushwahapratik3/dailyDsa/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/kushwahapratik3/dailyDsa/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/kushwahapratik3/dailyDsa/tree/master/0204-count-primes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/kushwahapratik3/dailyDsa/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushwahapratik3/dailyDsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/kushwahapratik3/dailyDsa/tree/master/0658-find-k-closest-elements) |
@@ -30,6 +31,7 @@ a2z sheet striver
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/kushwahapratik3/dailyDsa/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/kushwahapratik3/dailyDsa/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kushwahapratik3/dailyDsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/kushwahapratik3/dailyDsa/tree/master/0658-find-k-closest-elements) |
@@ -108,6 +110,7 @@ a2z sheet striver
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/kushwahapratik3/dailyDsa/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -133,4 +136,8 @@ a2z sheet striver
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kushwahapratik3/dailyDsa/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
