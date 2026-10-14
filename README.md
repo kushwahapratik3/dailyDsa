@@ -22,6 +22,7 @@ a2z sheet striver
 | [0540-single-element-in-a-sorted-array](https://github.com/kushwahapratik3/dailyDsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/kushwahapratik3/dailyDsa/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/kushwahapratik3/dailyDsa/tree/master/0875-koko-eating-bananas) |
+| [1901-find-a-peak-element-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/1901-find-a-peak-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@ a2z sheet striver
 | [0540-single-element-in-a-sorted-array](https://github.com/kushwahapratik3/dailyDsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/kushwahapratik3/dailyDsa/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/kushwahapratik3/dailyDsa/tree/master/0875-koko-eating-bananas) |
+| [1901-find-a-peak-element-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/1901-find-a-peak-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -140,4 +142,5 @@ a2z sheet striver
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
