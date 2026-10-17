@@ -14,6 +14,7 @@ a2z sheet striver
 | [0004-median-of-two-sorted-arrays](https://github.com/kushwahapratik3/dailyDsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/kushwahapratik3/dailyDsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushwahapratik3/dailyDsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kushwahapratik3/dailyDsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwahapratik3/dailyDsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kushwahapratik3/dailyDsa/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/kushwahapratik3/dailyDsa/tree/master/0152-maximum-product-subarray) |
@@ -35,6 +36,7 @@ a2z sheet striver
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kushwahapratik3/dailyDsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kushwahapratik3/dailyDsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kushwahapratik3/dailyDsa/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/kushwahapratik3/dailyDsa/tree/master/0493-reverse-pairs) |
