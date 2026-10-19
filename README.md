@@ -70,11 +70,13 @@ a2z sheet striver
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kushwahapratik3/dailyDsa/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/kushwahapratik3/dailyDsa/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/kushwahapratik3/dailyDsa/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/kushwahapratik3/dailyDsa/tree/master/0507-perfect-number) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kushwahapratik3/dailyDsa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
