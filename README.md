@@ -49,6 +49,7 @@ a2z sheet striver
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kushwahapratik3/dailyDsa/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/kushwahapratik3/dailyDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0206-reverse-linked-list) |
@@ -69,6 +70,7 @@ a2z sheet striver
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kushwahapratik3/dailyDsa/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kushwahapratik3/dailyDsa/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/kushwahapratik3/dailyDsa/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/kushwahapratik3/dailyDsa/tree/master/0204-count-primes) |
@@ -76,6 +78,7 @@ a2z sheet striver
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kushwahapratik3/dailyDsa/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/kushwahapratik3/dailyDsa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0206-reverse-linked-list) |
 ## Hash Table
