@@ -16,30 +16,27 @@ public:
         int sum;
         ListNode* head=new ListNode(0);
         ListNode* prev=head;
-        while(l1!=nullptr||l2!=nullptr){
+        while(l1!=nullptr||l2!=nullptr||carry>0){
             if(l1!=nullptr&&l2!=nullptr) {
                 sum=(l1->val+l2->val+carry);
                 l1=l1->next;
                 l2=l2->next;
             }
-            else if(l2==nullptr) {
+            else if(l2==nullptr&&l1!=nullptr) {
                 sum=(l1->val+carry);
                 l1=l1->next;
             }
-            else if(l1==nullptr) {
+            else if(l1==nullptr&&l2!=nullptr) {
                 sum=(l2->val+carry);
                 l2=l2->next;
             }
+            else sum=carry;
             carry=sum/10;
             ListNode* ptr= new ListNode(sum%10);
             prev->next=ptr;
             prev=prev->next;
             address=ptr;
         }
-            if(carry==1){
-                ListNode* ptr= new ListNode(carry);
-                prev->next=ptr;
-            }
         return head->next;
     }
 };
