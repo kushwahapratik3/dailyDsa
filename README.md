@@ -54,6 +54,7 @@ a2z sheet striver
 | [0141-linked-list-cycle](https://github.com/kushwahapratik3/dailyDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0876-middle-of-the-linked-list) |
@@ -68,6 +69,7 @@ a2z sheet striver
 | [0125-valid-palindrome](https://github.com/kushwahapratik3/dailyDsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kushwahapratik3/dailyDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/kushwahapratik3/dailyDsa/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/kushwahapratik3/dailyDsa/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0876-middle-of-the-linked-list) |
@@ -86,6 +88,7 @@ a2z sheet striver
 | [0002-add-two-numbers](https://github.com/kushwahapratik3/dailyDsa/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/kushwahapratik3/dailyDsa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,4 +172,8 @@ a2z sheet striver
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kushwahapratik3/dailyDsa/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
