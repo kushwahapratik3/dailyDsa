@@ -53,6 +53,7 @@ a2z sheet striver
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/kushwahapratik3/dailyDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kushwahapratik3/dailyDsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0237-delete-node-in-a-linked-list) |
@@ -69,6 +70,7 @@ a2z sheet striver
 | [0125-valid-palindrome](https://github.com/kushwahapratik3/dailyDsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kushwahapratik3/dailyDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kushwahapratik3/dailyDsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/kushwahapratik3/dailyDsa/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/kushwahapratik3/dailyDsa/tree/master/0658-find-k-closest-elements) |
@@ -95,6 +97,7 @@ a2z sheet striver
 | [0128-longest-consecutive-sequence](https://github.com/kushwahapratik3/dailyDsa/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/kushwahapratik3/dailyDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kushwahapratik3/dailyDsa/tree/master/0160-intersection-of-two-linked-lists) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
