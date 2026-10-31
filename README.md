@@ -52,6 +52,7 @@ a2z sheet striver
 | [0002-add-two-numbers](https://github.com/kushwahapratik3/dailyDsa/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kushwahapratik3/dailyDsa/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/kushwahapratik3/dailyDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kushwahapratik3/dailyDsa/tree/master/0160-intersection-of-two-linked-lists) |
@@ -68,6 +69,7 @@ a2z sheet striver
 | [0015-3sum](https://github.com/kushwahapratik3/dailyDsa/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushwahapratik3/dailyDsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/kushwahapratik3/dailyDsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kushwahapratik3/dailyDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0142-linked-list-cycle-ii) |
