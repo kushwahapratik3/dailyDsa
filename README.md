@@ -57,6 +57,7 @@ a2z sheet striver
 | [0061-rotate-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/kushwahapratik3/dailyDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kushwahapratik3/dailyDsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0234-palindrome-linked-list) |
@@ -75,6 +76,7 @@ a2z sheet striver
 | [0125-valid-palindrome](https://github.com/kushwahapratik3/dailyDsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kushwahapratik3/dailyDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kushwahapratik3/dailyDsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/kushwahapratik3/dailyDsa/tree/master/0344-reverse-string) |
@@ -138,6 +140,7 @@ a2z sheet striver
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kushwahapratik3/dailyDsa/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0148-sort-list) |
 | [0658-find-k-closest-elements](https://github.com/kushwahapratik3/dailyDsa/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -149,6 +152,7 @@ a2z sheet striver
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kushwahapratik3/dailyDsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/kushwahapratik3/dailyDsa/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kushwahapratik3/dailyDsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/kushwahapratik3/dailyDsa/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -163,6 +167,7 @@ a2z sheet striver
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kushwahapratik3/dailyDsa/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/kushwahapratik3/dailyDsa/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
