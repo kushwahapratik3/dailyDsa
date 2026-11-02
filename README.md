@@ -8,6 +8,7 @@ a2z sheet striver
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kushwahapratik3/dailyDsa/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/kushwahapratik3/dailyDsa/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/kushwahapratik3/dailyDsa/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/kushwahapratik3/dailyDsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kushwahapratik3/dailyDsa/tree/master/0344-reverse-string) |
 ## Array
@@ -32,6 +33,7 @@ a2z sheet striver
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kushwahapratik3/dailyDsa/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/kushwahapratik3/dailyDsa/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwahapratik3/dailyDsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kushwahapratik3/dailyDsa/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
@@ -198,4 +200,12 @@ a2z sheet striver
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kushwahapratik3/dailyDsa/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kushwahapratik3/dailyDsa/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kushwahapratik3/dailyDsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
