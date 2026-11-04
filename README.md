@@ -93,6 +93,7 @@ a2z sheet striver
 | [0050-powx-n](https://github.com/kushwahapratik3/dailyDsa/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/kushwahapratik3/dailyDsa/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/kushwahapratik3/dailyDsa/tree/master/0507-perfect-number) |
+| [1922-count-good-numbers](https://github.com/kushwahapratik3/dailyDsa/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -102,6 +103,7 @@ a2z sheet striver
 | [0050-powx-n](https://github.com/kushwahapratik3/dailyDsa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kushwahapratik3/dailyDsa/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/kushwahapratik3/dailyDsa/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
