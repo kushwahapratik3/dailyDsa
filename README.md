@@ -18,6 +18,7 @@ a2z sheet striver
 | [0015-3sum](https://github.com/kushwahapratik3/dailyDsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushwahapratik3/dailyDsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kushwahapratik3/dailyDsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/kushwahapratik3/dailyDsa/tree/master/0039-combination-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushwahapratik3/dailyDsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kushwahapratik3/dailyDsa/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/kushwahapratik3/dailyDsa/tree/master/0152-maximum-product-subarray) |
@@ -206,6 +207,7 @@ a2z sheet striver
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kushwahapratik3/dailyDsa/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/kushwahapratik3/dailyDsa/tree/master/0039-combination-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
