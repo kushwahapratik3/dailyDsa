@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>>res;
     void solve(int start,int end,vector<int>&current,vector<int>&candidates,int target){
-        if(end<start){
+        if(target<=0||end<start){
             if(target==0) res.push_back(current);
             return;
         }
